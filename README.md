@@ -511,7 +511,7 @@ const steps: OnboardingStep[] = [
     title: 'Welcome',
     content: 'Get started here',
     placement: 'bottom',
-  },
+  }, 
 ];
 
 const config: OnboardingConfig = {
